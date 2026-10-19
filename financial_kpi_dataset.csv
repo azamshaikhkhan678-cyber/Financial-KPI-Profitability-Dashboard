@@ -1,0 +1,6 @@
+Date,Month,Quarter,Year,Region,Department,Product Category,Product Name,Revenue,Cost of Goods Sold,Operating Expenses,Gross Profit,Net Profit,Profit Margin %,Sales Volume,Budgeted Revenue,Actual Revenue,Budget Variance,Customer Segment,Sales Channel
+
+2026-01-15,January,Q1,2026,North America,Enterprise Sales,Software Licenses,SaaS Core ERP,120000,40000,20000,80000,60000,0.50,150,110000,120000,10000,Enterprise,Direct Inbound
+2026-02-18,February,Q1,2026,Europe,Mid-Market Sales,Hardware Systems,Edge Server V4,85000,35000,15000,50000,35000,0.41,90,90000,85000,-5000,Mid-Market,Partner Network
+2026-03-22,March,Q1,2026,Asia-Pacific,Digital Commerce,Cloud Infrastructure,Blob Storage Cluster,95000,30000,18000,65000,47000,0.49,310,90000,95000,5000,SMB,Online Portal
+
